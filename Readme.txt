@@ -1,1 +1,1 @@
-These tools are only for Educational Purposes :)
+Use these tools only for Educational Purposes :)
